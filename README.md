@@ -77,10 +77,10 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a> 
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br>
             <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a> 
-            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,13 +104,13 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> 
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br>
             <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a> 
-            <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://postman.com" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -131,7 +131,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a> 
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br>
             <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -140,12 +140,12 @@
     </p>
 
     <p><img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand-pratap-tiwari&show_icons=true&locale=en&layout=compact"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand-pratap-tiwari&show_icons=true&locale=en&layout=compact&theme=algolia"
             alt="akhand-pratap-tiwari" /></p>
 
     <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=akhand-pratap-tiwari&show_icons=true&locale=en"
+            src="https://github-readme-stats.vercel.app/api?username=akhand-pratap-tiwari&show_icons=true&locale=en&theme=algolia&hide_border=false"
             alt="akhand-pratap-tiwari" /></p>
 
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&"
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&hide_border=false"
             alt="akhand-pratap-tiwari" /></p>

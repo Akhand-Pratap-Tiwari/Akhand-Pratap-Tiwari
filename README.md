@@ -139,13 +139,23 @@
                     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /> </a> 
     </p>
 
-    <p><img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand-pratap-tiwari&show_icons=true&locale=en&layout=compact&theme=algolia"
-            alt="akhand-pratap-tiwari" /></p>
-
-    <p>&nbsp;<img align="center"
+<br>
+<p>
+        <img align="left"
             src="https://github-readme-stats.vercel.app/api?username=akhand-pratap-tiwari&show_icons=true&locale=en&theme=algolia&hide_border=false"
-            alt="akhand-pratap-tiwari" /></p>
-
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&hide_border=false"
-            alt="akhand-pratap-tiwari" /></p>
+            alt="akhand-pratap-tiwari" /> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&hide_border=false"
+            alt="akhand-pratap-tiwari" />
+</p>
+<p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <img align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand-pratap-tiwari&show_icons=true&locale=en&layout=compact&theme=algolia"
+            alt="akhand-pratap-tiwari" />
+</p>

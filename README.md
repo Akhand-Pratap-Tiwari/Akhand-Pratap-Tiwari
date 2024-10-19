@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/7c63916c-6dfb-4a3a-9289-fde3d456996b)<p align="center">
     <h1 align="center">Hi 👋, I'm Akhand Pratap Tiwari </h1>
     <h3 align="center">Hunting ice-creams. Passionate about AI, Maths, Graphs, Games and App Dev. </h3>
 </p>
@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&column=5&theme=algolia" alt="akhand-pratap-tiwari" />
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&theme=algolia" alt="akhand-pratap-tiwari" />
     </a>
 </p>
 
@@ -74,31 +74,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,postman,visualstudio,vscode,git,github&perline=10)](https://skillicons.dev)
 
-<!-- <table  class="images" width="100%"  style="border:0px solid white; width:100%;">
-<tr>
-        <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&hide_border=false"
-        alt="akhand-pratap-tiwari" /></td>
-</tr>
-<tr></tr>
-<tr>
-        <td><img align="left" 
-        src="https://github-readme-stats.vercel.app/api?username=akhand-pratap-tiwari&show_icons=true&locale=en&theme=algolia&hide_border=false"
-        alt="akhand-pratap-tiwari" /></td>
-</tr>
-<tr></tr>
-<tr>
-        <td><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=akhand-pratap-tiwari&show_icons=true&locale=en&layout=compact&theme=algolia"
-        alt="akhand-pratap-tiwari" /></td>
-</tr>
-</table>
--->
-
-
 <p align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhand-pratap-tiwari&theme=algolia" width="100%" />
 </p>
 
+[![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhand-pratap-tiwari&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Akhand-Pratap-Tiwari)
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&card_width=1000&hide_border=true" align="center"/>
+</p>
 
 <table align="center">
     <tr>
@@ -107,10 +91,3 @@
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhand-pratap-tiwari&theme=algolia" width="279px" align="center" /></td>
     </tr>
 </table>
-
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&card_width=1000&hide_border=true" align="center"/>
-</p>
-
-[![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhand-pratap-tiwari&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Akhand-Pratap-Tiwari)

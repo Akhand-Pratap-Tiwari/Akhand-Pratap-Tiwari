@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Akhand Pratap Tiwari </h1>
-<h3 align="center">Hunting ice-creams. Passionate about AI, Maths, Graphs, Games and App Dev. </h3>
+<p align="center">
+    <h1 align="center">Hi 👋, I'm Akhand Pratap Tiwari </h1>
+    <h3 align="center">Hunting ice-creams. Passionate about AI, Maths, Graphs, Games and App Dev. </h3>
+</p>
 
-<p align="center"> 
+<p> 
     <img src="https://komarev.com/ghpvc/?username=akhand-pratap-tiwari&label=Profile%20views&color=0e75b6&style=algolia" alt="akhand-pratap-tiwari"/> 
 </p>
 
@@ -194,22 +196,13 @@
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem" align="left" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem" align="left" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhand-pratap-tiwari&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem " align="left" title="🦉 Night owl" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" align="left" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" align="center" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhand-pratap-tiwari&theme=algolia" width="280px" align="right" />
 </p>
-
-</br></br>
-</br></br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&card_width=1000&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&card_width=1000&hide_border=true" align="center"/>
 </p>
 
-</br></br>
-
 [![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhand-pratap-tiwari&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Akhand-Pratap-Tiwari)
-
-</br>
-
-</div>

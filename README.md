@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&row=2&col=4&theme=algolia" alt="akhand-pratap-tiwari" />
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&column=5&theme=algolia" alt="akhand-pratap-tiwari" />
     </a>
 </p>
 

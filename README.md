@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7c63916c-6dfb-4a3a-9289-fde3d456996b)<p align="center">
+<p align="center">
     <h1 align="center">Hi 👋, I'm Akhand Pratap Tiwari </h1>
     <h3 align="center">Hunting ice-creams. Passionate about AI, Maths, Graphs, Games and App Dev. </h3>
 </p>
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&theme=algolia" alt="akhand-pratap-tiwari" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&theme=algolia&title=-Reviews" alt="akhand-pratap-tiwari" />
     </a>
 </p>
 

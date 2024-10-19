@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akhand Pratap Tiwari</h1>
-<h3 align="center">Hunting ice-creams. Passionate about AI, Maths, Graphs, Games and App Dev.</h3>
+<h1 align="center">Hi 👋, I'm Akhand Pratap Tiwari </h1>
+<h3 align="center">Hunting ice-creams. Passionate about AI, Maths, Graphs, Games and App Dev. </h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=akhand-pratap-tiwari&label=Profile%20views&color=0e75b6&style=algolia"
-        alt="akhand-pratap-tiwari" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&row=2&col=4&theme=algolia"
-            alt="akhand-pratap-tiwari" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhand-pratap-tiwari&label=Profile%20views&color=0e75b6&style=algolia" alt="akhand-pratap-tiwari" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhand-pratap-tiwari&row=2&col=4&theme=algolia" alt="akhand-pratap-tiwari" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -138,8 +133,7 @@
             <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /> </a> 
     </p>
-<br>
-<table  class="images" width="100%"  style="border:0px solid white; width:100%;">
+<!-- <table  class="images" width="100%"  style="border:0px solid white; width:100%;">
         <tr>
                 <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&hide_border=false"
             alt="akhand-pratap-tiwari" /></td>
@@ -157,3 +151,21 @@
             alt="akhand-pratap-tiwari" /></td>
         </tr>
 </table>
+ -->
+
+ 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhand-pratap-tiwari&theme=algolia" width="100%" />
+
+<div style="display: flex; flex-wrap: wrap; margin-bottom:1rem; ">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem" align="left"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem" align="left" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhand-pratap-tiwari&theme=algolia" width="280px" style="margin-right: .4rem; margin-top:.5rem " align="left" title="🦉 Night owl" />
+</div>
+
+</br></br>
+</br></br>
+
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&card_width=1000)](https://github.com/Akhand-Pratap-Tiwari) </br></br>
+[![G𝚒𝚝H𝚞𝚋 G𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=akhand-pratap-tiwari&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Akhand-Pratap-Tiwari) </br>
+
+</div>

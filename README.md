@@ -195,13 +195,15 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhand-pratap-tiwari&theme=algolia" width="100%" />
 </p>
 
+
 <table align="center">
     <tr>
-        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" align="left" /></td>
-        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhand-pratap-tiwari&theme=algolia" width="280px" align="left" /></td>
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhand-pratap-tiwari&theme=algolia" width="280px" align="left" /></td>
+        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhand-pratap-tiwari&theme=algolia" width="279px" align="center" /></td>
+        <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhand-pratap-tiwari&theme=algolia" width="279px" align="center" /></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akhand-pratap-tiwari&theme=algolia" width="279px" align="center" /></td>
     </tr>
 </table>
+
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhand-pratap-tiwari&theme=algolia&card_width=1000&hide_border=true" align="center"/>

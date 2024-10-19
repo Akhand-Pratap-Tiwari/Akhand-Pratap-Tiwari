@@ -46,9 +46,33 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,cs,dart,docker,figma,firebase,flask,flutter,gcp,git,html,ai,java,linux,mongodb,mysql,opencv,postman,python,pytorch,sklearn,tensorflow,unity,unreal&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dart,html,java,python&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Cloud Platforms:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Database and BaaS:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Frameworks and Libraries:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=flask,flutter,opencv,pytorch,sklearn,tensorflow&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Game Development:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Designing:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps&perline=10)](https://skillicons.dev)
+
+<h3 align="left">Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,postman,visualstudio,vscode,git,github&perline=10)](https://skillicons.dev)
 
 <!-- <table  class="images" width="100%"  style="border:0px solid white; width:100%;">
 <tr>
